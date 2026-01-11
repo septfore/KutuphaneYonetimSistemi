@@ -18,7 +18,7 @@
 
 ## 📌 Proje Hakkında
 
-Bu proje, bir kütüphanede temel işlerin bilgisayar ortamında yapılabilmesini sağlar. Öğrenciler, kitaplar ve ödünç alma/geri verme işlemleri gibi yaygın fonksiyonları destekler. Tasarımı C# dilinde olup *BLL*, *DAL*, *Domain/Entities* ve *UI* katmanlarına sahip şekilde modüler yapılmıştır. 3 rol üzerinden erişilebilen bu uygulmada 4 katmanlı mimari kullanılmıştır.
+Bu proje, bir kütüphanede temel işlerin bilgisayar ortamında yapılabilmesini sağlar. Öğrenci yönetimi, kitaplar ve ödünç alma/geri verme işlemleri gibi yaygın fonksiyonları destekler. Tasarımı C# dilinde olup *BLL*, *DAL*, *Domain/Entities* ve *UI* katmanlarına sahip şekilde modüler yapılmıştır. 3 rol üzerinden erişilebilen bu uygulmada 4 katmanlı mimari kullanılmıştır. Yönetici, görevli ve üye olmak üzere roller için farklı ekranlar tasarlanmıştır. 
 
 ---
 
@@ -42,6 +42,9 @@ Projeyi çalıştırmak için aşağıdakiler gereklidir:
 2. Visual Studio’yu aç ve çözümü (.sln) yükle.
 
 3. Gerekli NuGet paketlerini yükle (gerekirse).
+
+---
+
 ## ▶️ Nasıl Çalıştırılır
 
 Visual Studio içinde Startup Project olarak Kutuphane.UI seç.
@@ -49,6 +52,8 @@ Visual Studio içinde Startup Project olarak Kutuphane.UI seç.
 Build > Rebuild Solution ile derle.
 
 F5 (veya Run) tuşuna basarak uygulamayı başlat.
+
+---
 
 ## ✨ Özellikler
 
@@ -58,10 +63,11 @@ F5 (veya Run) tuşuna basarak uygulamayı başlat.
 
 📚 Ödünç alma ve iade işlemleri
 
-🔍 Kitap ve üye arama
+🔍 Live search ile kitap ve üye arama
 
-🧾 Basit listeleme ve filtreleme
+🧾 Basit listeleme, filtreleme ve raporlar
 
+---
 
 ## 🧠 Teknolojiler
 
