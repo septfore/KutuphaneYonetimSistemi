@@ -6,7 +6,8 @@
 
 ## 🚀 İçindekiler
 
-- 📌 [Proje Hakkında](#-proje-hakkında)  
+- 📌 [Proje Hakkında](#-proje-hakkında)
+- 🎬 [YouTube Videosu](#🎬-YouTube-Kanalım) 
 - ⚙️ [Gereksinimler](#%EF%B8%8F-gereksinimler)  
 - 🛠️ [Kurulum](#%EF%B8%8F-kurulum)  
 - ▶️ [Nasıl Çalıştırılır](#%EF%B8%8F-nasıl-çalıştırılır)  
@@ -18,8 +19,12 @@
 
 ## 📌 Proje Hakkında
 
-Bu proje, bir kütüphanede temel işlerin bilgisayar ortamında yapılabilmesini sağlar. Öğrenci yönetimi, kitaplar ve ödünç alma/geri verme işlemleri gibi yaygın fonksiyonları destekler. Tasarımı C# dilinde olup *BLL*, *DAL*, *Domain/Entities* ve *UI* katmanlarına sahip şekilde modüler yapılmıştır. 3 rol üzerinden erişilebilen bu uygulmada 4 katmanlı mimari kullanılmıştır. Yönetici, görevli ve üye olmak üzere roller için farklı ekranlar tasarlanmıştır. 
+Bu proje, bir kütüphanede temel işlerin bilgisayar ortamında yapılabilmesini sağlar. Öğrenci yönetimi, kitaplar ve ödünç alma/geri verme işlemleri gibi yaygın fonksiyonları destekler. Tasarımı WinForms C# dilinde olup *BLL*, *DAL*, *Domain/Entities* ve *UI* katmanlarına sahip şekilde modüler yapılmıştır. 3 rol üzerinden erişilebilen bu uygulamada 4 katmanlı mimari kullanılmıştır. Yönetici, görevli ve üye olmak üzere roller için farklı ekranlar tasarlanmıştır. 
 
+---
+## 🎬 YouTube Kanalım
+Aşağıdaki link ile projeyi anlattığım videoma ulaşabilirsiniz.
+https://youtu.be/S0FARTC5d2A?si=gnRHFZFlNQuoGKdR
 ---
 
 ## ⚙️ Gereksinimler
