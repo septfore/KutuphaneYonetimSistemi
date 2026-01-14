@@ -82,6 +82,6 @@ C#
 
 .NET
 
-Windows Forms (veya Console UI)
+Windows Forms
 
-Katmanlı mimari
+N Katmanlı mimari
